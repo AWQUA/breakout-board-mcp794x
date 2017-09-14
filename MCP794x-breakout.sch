@@ -1910,6 +1910,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <sheets>
 <sheet>
 <plain>
+<text x="170.18" y="10.16" size="2.54" layer="91">AWQUA</text>
 </plain>
 <instances>
 <instance part="U4" gate="G$1" x="106.68" y="111.76"/>
